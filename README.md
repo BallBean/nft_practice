@@ -183,12 +183,6 @@ npm start
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Contact
-
-Created by [@BallBean](https://github.com/BallBean)
-
-Project Link: [https://github.com/BallBean/nft_practice](https://github.com/BallBean/nft_practice)
-
 ## 🙏 Acknowledgments
 
 - [OpenZeppelin](https://openzeppelin.com/)
